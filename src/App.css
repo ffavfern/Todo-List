@@ -1,0 +1,16 @@
+
+.priority-low {
+  color: green;
+}
+
+.priority-medium {
+  color: orange;
+}
+
+.priority-high {
+  color: red;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
